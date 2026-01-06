@@ -1,4 +1,6 @@
-𝗛𝗶, 𝗜'𝗺 𝗠𝘂𝘀𝗮𝗶𝗯 
+  𝐈'𝐦 𝐌𝐮𝐬𝐚𝐢𝐛
+____________
 
-𝗔𝘀𝗽𝗶𝗿𝗶𝗻𝗴 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗲𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴 𝗔𝗜 𝗮𝗻𝗱 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗺𝗲𝗮𝗻𝗶𝗻𝗴𝗳𝘂𝗹, 𝗿𝗲𝗮𝗹-𝘄𝗼𝗿𝗹𝗱 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀. 
-𝗗𝗿𝗶𝘃𝗲𝗻 𝗯𝘆 𝗰𝘂𝗿𝗶𝗼𝘀𝗶𝘁𝘆, 𝗰𝗼𝗻𝘀𝗶𝘀𝘁𝗲𝗻𝘁 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴, 𝗮𝗻𝗱 𝗮 𝘀𝘁𝗿𝗼𝗻𝗴 𝗱𝗲𝘀𝗶𝗿𝗲 𝘁𝗼 𝗴𝗿𝗼𝘄 𝗮𝘀 𝗮 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿.
+Aspiring Full-Stack Developer exploring AI and Data Analytics to build thoughtful, real-world projects.
+I focus on learning deeply, applying concepts through hands-on work, and continuously improving as a developer.
+
