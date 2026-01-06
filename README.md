@@ -1,3 +1,4 @@
-𝓗𝓲, 𝓘'𝓶 𝓜𝓾𝓼𝓪𝓲𝓫 👋  
-𝓐𝓼𝓹𝓲𝓻𝓲𝓷𝓰 𝓕𝓾𝓵𝓵-𝓢𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓮𝔁𝓹𝓵𝓸𝓻𝓲𝓷𝓰 𝓐𝓘 𝓪𝓷𝓭 𝓫𝓾𝓲𝓵𝓭𝓲𝓷𝓰 𝓶𝓮𝓪𝓷𝓲𝓷𝓰𝓯𝓾𝓵 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼.  
-𝓕𝓸𝓬𝓾𝓼𝓮𝓭 𝓸𝓷 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰, 𝓮𝔁𝓹𝓮𝓻𝓲𝓶𝓮𝓷𝓽𝓲𝓷𝓰, 𝓪𝓷𝓭 𝓰𝓻𝓸𝔀𝓲𝓷𝓰 𝓲𝓷 𝓽𝓮𝓬𝓱.
+Hi, I'm Musaib Rasheed 
+
+Aspiring Full-Stack Developer exploring AI and building meaningful, real-world projects.  
+Driven by curiosity, consistent learning, and a strong desire to grow as a developer.
