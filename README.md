@@ -1,23 +1,5 @@
-## Hi, I'm Musaib 👋
+Hi, I'm Musaib 👋  
+Aspiring Full-Stack Developer exploring AI and building meaningful projects.  
+Focused on learning, experimenting, and growing in tech.
 
-I'm an aspiring tech professional with a strong interest in building a career in IT and cloud technologies.
-I enjoy learning how systems work, solving technical problems, and improving my skills step by step.
-
-## 🚀 What I'm Currently Working On
-- Learning IT Support fundamentals
-- Practicing Linux commands and system basics
-- Understanding networking concepts
-- Exploring cloud fundamentals (AWS basics)
-- Building small practice projects and notes on GitHub
-
-## 🛠️ Tools & Technologies
-- Linux (basic commands & system usage)
-- Networking fundamentals
-- Python (basics)
-- Git & GitHub
-- AWS (learning fundamentals)
-- VS Code
-
-## 📫 How to Reach Me
-- LinkedIn: https://www.linkedin.com/in/your-link-here
-- GitHub: https://github.com/your-username
+LinkedIn → https://www.linkedin.com/in/musaib-rashid-bhat-492965296/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
